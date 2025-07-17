@@ -1,0 +1,8 @@
+input: lib/
+output:
+  json: docs/structure.json
+  manual: docs/user_manual.md
+  journey: docs/app_journey.md
+  diagram: docs/diagrams/user_flow.mmd
+depth: 3
+format: json
